@@ -2,6 +2,7 @@
 
 ## Project Description
 
+![Project Description](product-desc.jpeg)
 This project aims to build a **weather prediction model** using the **LightGBM (LGBM)** machine learning algorithm based on historical weather parameter data.  
 All analysis processes are implemented in a **Jupyter Notebook (`.ipynb`)**, covering data loading, data understanding, feature engineering, dataset splitting, model training, and evaluation.
 
@@ -57,5 +58,6 @@ Evaluation metrics include:
 ![Prediction Result](prediction-result.jpeg)
 
 ---
+
 
 
